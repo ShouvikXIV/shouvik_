@@ -95,6 +95,7 @@ height: 150px;
 }
 .footer-link{
   margin: 100px;
+  text-decoration: none;
 }
 .btn {
   background: #3498db;
